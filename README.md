@@ -9,4 +9,4 @@ As I share the Project Proposal and the PACE strategy document, my goal is not o
 ## Acknowledgements
 I am sincerely grateful to Google for offering the "Foundations in Data Science" course, which has been instrumental in equipping me with essential knowledge in the field. This comprehensive course not only taught me the fundamentals of Data Science, but also provided valuable guidance on writing effective project proposals and navigating the necessary steps to successfully complete a Data Science project.
 ## Documentation
-[Link to the Google Foundations of Data Science course page](https://www.coursera.org/learn/foundations-of-data-science)
+[Link to the Google "Foundations of Data Science" course page](https://www.coursera.org/learn/foundations-of-data-science)
